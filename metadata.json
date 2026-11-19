@@ -1,0 +1,6 @@
+{
+  "name": "PIPAS INTERACTIVE LAB",
+  "description": "Media pembelajaran interaktif PIPAS Kelas X SMK materi Besaran dan Satuannya dengan laboratorium pengukuran virtual, kalkulator besaran turunan, konversi satuan, tantangan misi sains, kuis final, dan mode guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
